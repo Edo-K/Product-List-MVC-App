@@ -1,0 +1,239 @@
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.exe
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.deps.json
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.runtimeconfig.json
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.runtimeconfig.dev.json
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.pdb
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.Views.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.Views.pdb
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.csproj.AssemblyReference.cache
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.AssemblyInfoInputs.cache
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.AssemblyInfo.cs
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.csproj.CoreCompileInputs.cache
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.RazorAssemblyInfo.cache
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.RazorAssemblyInfo.cs
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\ProductListMVCApp.StaticWebAssets.Manifest.cache
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\ProductListMVCApp.StaticWebAssets.xml
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductListMVCApp.styles.css
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.TagHelpers.input.cache
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.TagHelpers.output.cache
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.RazorCoreGenerate.cache
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.RazorTargetAssemblyInfo.cache
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.RazorTargetAssemblyInfo.cs
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.Views.pdb
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.csproj.CopyComplete
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.dll
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.pdb
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.genruntimeconfig.cache
+C:\Users\Edo\Desktop\ProductListMVCApp\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.exe
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.deps.json
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.runtimeconfig.json
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.runtimeconfig.dev.json
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.pdb
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.Views.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.Views.pdb
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.csproj.AssemblyReference.cache
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.AssemblyInfoInputs.cache
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.AssemblyInfo.cs
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.csproj.CoreCompileInputs.cache
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.RazorAssemblyInfo.cache
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.RazorAssemblyInfo.cs
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\ProductListMVCApp.StaticWebAssets.Manifest.cache
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\ProductListMVCApp.StaticWebAssets.xml
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductListMVCApp.styles.css
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.TagHelpers.input.cache
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.TagHelpers.output.cache
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.RazorCoreGenerate.cache
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Products\Upsert.cshtml.g.cs
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.RazorTargetAssemblyInfo.cache
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.RazorTargetAssemblyInfo.cs
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.Views.pdb
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.csproj.CopyComplete
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.dll
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.pdb
+C:\Users\Edo\Desktop\ProductListMVCApp - Copy (2)\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.genruntimeconfig.cache
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.exe
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.deps.json
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.runtimeconfig.json
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.runtimeconfig.dev.json
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.pdb
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.Views.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\ProductListMVCApp.Views.pdb
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.csproj.AssemblyReference.cache
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.AssemblyInfoInputs.cache
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.AssemblyInfo.cs
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.csproj.CoreCompileInputs.cache
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.RazorAssemblyInfo.cache
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.RazorAssemblyInfo.cs
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\ProductListMVCApp.StaticWebAssets.Manifest.cache
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\ProductListMVCApp.StaticWebAssets.xml
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductListMVCApp.styles.css
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.TagHelpers.input.cache
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.TagHelpers.output.cache
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.RazorCoreGenerate.cache
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Products\Upsert.cshtml.g.cs
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.RazorTargetAssemblyInfo.cache
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.RazorTargetAssemblyInfo.cs
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.Views.pdb
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.csproj.CopyComplete
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.dll
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.pdb
+C:\Users\Edo\Desktop\Za GitHub - Copy\ProductListMVCApp\ProductListMVCApp\obj\Debug\netcoreapp3.1\ProductListMVCApp.genruntimeconfig.cache
